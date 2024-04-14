@@ -1,0 +1,17 @@
+<!DOCTYPE html> => (Tells browser you are using HTML5 version)
+<html lang="en"> => (This is the root of an HTML document) => (in html tag lang ="en" it is attributes)
+<head> => (Container for metaData)
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML_intro</title> => (Page Title)
+</head>
+<body> => (Contains all data rendered by the browser)
+    <h1>HTML Introduction</h1>
+
+    <p>HTML stands for Hyper Text Markup Language</p>
+    <p>HTML is the code that is used to structure a web page and its content</p>
+    <p>The components that are used to design the structure of websites are called HTML tags</p>
+    <p>The content in the HTML tags are called HTML element</p>
+    <p>HTML is not case sensitive</p>
+</body>
+</html>
